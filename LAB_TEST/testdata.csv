@@ -1,0 +1,5 @@
+ID,Age,Income,Student,Credit_rating	,Buys_computer
+1,<=30,High,No,Fair,No
+2,<=30,High,No,Excellent,No
+3,31.4,High,No,Fair,Yes
+4,>40,Medium,No,Fair,Yes

@@ -1,0 +1,4 @@
+ID,Age,Income,Student,Credit_rating
+1,<=30,High,No,Fair
+2,<=30,High,No,Excellent
+3,31.4,Low,Yes,Excellent
